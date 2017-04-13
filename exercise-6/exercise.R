@@ -4,7 +4,7 @@
 # Create a vector of the teams that the Huskies played against during that season
 # Call this vector `not.huskies`. You'll need to convert this column to a vector
 
-
+123
 # Create a vector of the their final scores for the games
 # Call this variable `husky.scores`
 
